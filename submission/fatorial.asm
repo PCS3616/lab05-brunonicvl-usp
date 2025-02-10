@@ -8,6 +8,7 @@ PRO     K =1
 LOOP    K =0
 
 INI     SC /200
+        HM /000
 
     @ /200
             K =0
