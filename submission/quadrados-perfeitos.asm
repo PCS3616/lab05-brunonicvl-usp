@@ -1,6 +1,6 @@
         JP INI
 N       K /0
-FIM     K =63
+FIM     K =64
 I       K /0
 UM      K /1
 DOIS    K /002
